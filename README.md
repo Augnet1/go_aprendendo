@@ -1,1 +1,1 @@
-# go_aprendendo
+# Repositório utilizado para aprender go
